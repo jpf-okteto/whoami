@@ -1,5 +1,5 @@
 services:
   whoami:
-    image: containous/whoami/
+    image: containous/whoami
     ports:
     - 80
